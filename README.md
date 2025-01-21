@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Jhi4n/Jhi4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,12 +44,6 @@ Hola 👋, soy Giancarlo, un **Ingeniero en Sistemas** apasionado por crear solu
 - 🛠️ **Arquitectura de software** enfocada en sistemas de alto rendimiento.
 - 🚀 Proyectos con **microservicios dockerizados** para portabilidad y escalabilidad.
 - 📊 Desarrollo de **paneles de visualización de datos** con herramientas como Tableau o Power BI.
-
----
-
-## 🧠 **Busco ayuda con:**
-- 🤖 Optimización y despliegue de **modelos de inteligencia artificial**.
-- ⚡ Implementación de tecnologías de transmisión en tiempo real como **Kafka** y **Redis**.
 
 ---
 
